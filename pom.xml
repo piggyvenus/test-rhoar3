@@ -30,7 +30,7 @@
   <description>Spring Boot - CRUD Booster</description>
 
   <properties>
-    <postgresql.version>9.4.1212</postgresql.version>
+    <postgresql.version>42.5.0.redhat-00001</postgresql.version>
   </properties>
   
   <dependencies>
